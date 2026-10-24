@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "EspadaSMP-emn6.aternos.me",
+    "port":  22145,
     "version": "",
     "try-creative": false
   },
